@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.2865c6a8.css","mappings":"AAAA,EACI,QAAS,CACT,SACJ,CAEA,KACI,wBACJ,CAEA,GACI,WACJ","sources":["components/roi.css"],"sourcesContent":["* {\n    margin: 0;\n    padding: 0;\n}\n\nbody {\n    background-color: whitesmoke;\n}\n\nh1 {\n    size: 2000px;\n}"],"names":[],"sourceRoot":""}
