@@ -46,6 +46,10 @@ export default function ROICalculator() {
     const calculateROI = () => {
       const roiValue = ((returnAmount - investment) / investment) * 100;
       setRoi(roiValue.toFixed(2));
+
+      const timeSavings = (15/60) * medicare;
+      const revenueGenerated = medicare * 75;
+      const savings = (15/60) * (physician + staff);
     };
 
     /* Time Savings = (15 min)/(60 min) x (#of AWV for MA members)
